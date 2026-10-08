@@ -1,0 +1,12 @@
+{
+  "name": "velocity-afk-bot",
+  "version": "1.0.0",
+  "description": "Minecraft Velocity server bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "latest"
+  }
+}
